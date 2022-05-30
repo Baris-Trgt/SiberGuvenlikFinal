@@ -9,7 +9,7 @@
 
 <br> NMAP uygulamasını python kodları üzerinden çalıştırarak bir web sitesinde sql injection ile Web açıklarının olup olmadığını test ettirmektedir. <br/>
 <br> Buradan çıkan sonuçları bir XML dosyasına çıktı vermektedir. <br/>
-<br> ÖNEMLİ: Dosya yolunu kendi bilgisayarınıza göre ayarlanyınız. Kod içerisinde "C:\\Windows\\Temp\\Cikti.xml" şeklinde ayarlanmıştır. <br/>
+<br> ÖNEMLİ : Dosya yolunu kendi bilgisayarınıza göre ayarlanyınız. Kod içerisinde "C:\\Windows\\Temp\\Cikti.xml" şeklinde ayarlanmıştır. <br/>
 <br> Uygulama sonunda JSON fortmatında kullanıcılara çıktı vermektedir.<br/>
 
-<br> ÖNEMLİ: Eğer açık bulunmaz ise uygulama hata verir ve yapılan işlemizin gerçekleştirilmez. <br/>
+<br> ÖNEMLİ : Eğer açık bulunmaz ise uygulama hata verir ve yapılan işlemizin gerçekleştirilmez. <br/>
