@@ -4,8 +4,8 @@
 
 <br> Uygulamayı test etmek için aşağıdaki değerleri girebilirsiniz. <br/>
 <br> Portu Degerini : 80 <br/>
-<br> Web Sitesi Adresinin Degerini: testphp.vulnweb.com <br/>
-<br> Script Degeri: http-sql-injection <br/>
+<br> Web Sitesi Adresinin Degerini : testphp.vulnweb.com <br/>
+<br> Script Degeri : http-sql-injection <br/>
 
 <br> NMAP uygulamasını python kodları üzerinden çalıştırarak bir web sitesinde sql injection ile Web açıklarının olup olmadığını test ettirmektedir. <br/>
 <br> Buradan çıkan sonuçları bir XML dosyasına çıktı vermektedir. <br/>
