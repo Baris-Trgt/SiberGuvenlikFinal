@@ -3,7 +3,7 @@
 <br> SiberGuvenlikFinal - OdevFinal - OdevFinal - dist - OdevFinal.exe <br/>
 
 <br> Uygulamayı test etmek için aşağıdaki değerleri girebilirsiniz. <br/>
-<br> Portu Degerini : 80 <br/>
+<br> Port Degerini : 80 <br/>
 <br> Web Sitesi Adresinin Degerini : testphp.vulnweb.com <br/>
 <br> Script Degeri : http-sql-injection <br/>
 
